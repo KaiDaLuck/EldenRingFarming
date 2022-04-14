@@ -4,6 +4,11 @@ Automatic Farming Script for Elden Ring
 In order to use v.6 you need to install the "keyboard" package.
 All versions only work if the "directkeys.py" file is in the same folder as the script.
 
+For those of you, who can't install keyboard:
+- Unzip keyboard.zip
+- Put the two folders in C:\Users\[USER]\AppData\Local\Programs\Python\Python310\Lib\site-packages
+- (Or where ever your python modules are installed.)
+
 Ingame requirements:
 - Hold the sacred relic sword in both hands
 - rebind "use skill" to 'J' in settings
