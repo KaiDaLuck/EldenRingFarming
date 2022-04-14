@@ -8,7 +8,7 @@ In order to use most versions you need to install the "keyboard" package.
 All versions only work if the "directkeys.py" file is in the same folder as the script.
 
 To install keyboard on Windows 10/11:
-- type "py -m pip install --upgrade keyboard" in command line.
+- type "py -m pip install --upgrade keyboard" or "python -m pip install --upgrade keyboard" in command line (cmd).
 
 Ingame requirements:
 - Hold the sacred relic sword in both hands
