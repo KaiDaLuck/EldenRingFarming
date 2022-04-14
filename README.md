@@ -21,4 +21,4 @@ Version descriptions/Instructions:
 
 5: Use it if you instakill all the albinaurics (Needs keyboard package to be installed) [Press ENTER ingame to start]
 
-6: Just an improved version of v.5, because you now can stop the script in (almost) any given time by holding "enter" (Needs keyboard package to be installed) [Wait 5 seconds after launching the script]
+6: Just an improved version of v.5, because you now can stop the script in (almost) any given time by holding "enter" (Needs keyboard package to be installed) [Wait for 5 seconds after launching the script]
