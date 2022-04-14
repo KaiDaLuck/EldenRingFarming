@@ -8,6 +8,7 @@ For those of you, who can't install keyboard:
 - Unzip keyboard.zip
 - Put the two folders in C:\Users\[USER]\AppData\Local\Programs\Python\Python310\Lib\site-packages
 - (Or where ever your python modules are installed.)
+- On Windows 10 use "py -m pip install --upgrade keyboard" in command line if it still doesn't work
 
 Ingame requirements:
 - Hold the sacred relic sword in both hands
