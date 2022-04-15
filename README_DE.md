@@ -15,7 +15,7 @@ Voraussetzungen im Spiel:
 - Markier (also speicher) die "Palastallee" Gnade im Gnadenmenu auf der Karte. Wenn man neben der Gnade steht oder gar bei ihr sitzt, drückt man auf:
 -     XBOX Controller: MENU, Y, RS
 -     PS Controller: SHARE, TRIANGLE, R3
--     Keyboard: G, F, Z
+-     Tastatur: G, F, Z
 
 Die Beschreibungen und Anweisungen aller Versionen:
 
