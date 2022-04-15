@@ -12,8 +12,7 @@ In order to use most versions you need to install the "keyboard" package. To ins
 Ingame requirements:
 - Hold the sacred relic sword in both hands
 - rebind "use skill" to 'J' in settings
-- mark the "Palace Approach Ledge-Road" site of grace in your grace menu on the map.
--   do that by standing or sitting at the site of grace and pressing the following buttons:
+- mark the "Palace Approach Ledge-Road" site of grace in your grace menu on the map. do that by standing or sitting at the site of grace and pressing the following buttons:
 -     XBOX Controller: MENU, Y, RS
 -     PS Controller: SHARE, TRIANGLE, R3
 -     Keyboard: G, F, Z
