@@ -1,5 +1,6 @@
 ＃EldenRingFarmingAFK
- EldenRingの自動ファーミングスクリプト
+
+EldenRingの自動ファーミングスクリプト
 
  すべてのバージョンは、「directkeys.py」ファイルがスクリプトと同じフォルダーにある場合にのみ機能します。
 
