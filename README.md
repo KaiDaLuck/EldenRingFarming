@@ -1,13 +1,12 @@
 # EldenRingFarmingAFK
 Automatic Farming Script for Elden Ring
 
-Only works with python installed.
-
-In order to use most versions you need to install the "keyboard" package.
-
 All versions only work if the "directkeys.py" file is in the same folder as the script.
 
-To install keyboard on Windows 10/11:
+Only works with python installed.
+- You do that by typing "python" in cmd, after which microsoft store opens, where you can install it.
+
+In order to use most versions you need to install the "keyboard" package. To install keyboard on Windows 10/11:
 - type "py -m pip install --upgrade keyboard" or "python -m pip install --upgrade keyboard" in command line (cmd).
 
 Ingame requirements:
