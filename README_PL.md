@@ -21,7 +21,7 @@ Opisy wersji / instrukcje:
 
 1: Nie używaj go, został stworzony tylko do testowania directkeys.
 
-2: Również nie używaj go, jest powolny i odbiega od łaski. (Wymaga zainstalowania pakietu "keyboard") [Naciśnij ENTER w grze, aby rozpocząć]
+2: Ta wersja również nie powinna być używana, ponieważ jest powolna i niestabilna. (Wymaga pakietu "keyboard") [W grze naciśnij ENTER, aby rozpocząć]
 
 3: Bardzo wolny, ale użyteczny. (Wymaga zainstalowania pakietu "keyboard") [Naciśnij ENTER w grze, aby rozpocząć]
 
