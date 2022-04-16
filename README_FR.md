@@ -13,8 +13,8 @@ Exigences en jeu:
 - Tenez l'épée de la sainte relique à deux mains.
 - relier "utiliser la compétence" à 'J' dans les paramètres
 - marquez le site de grâce "Palace Approach Ledge-Road" dans votre menu de grâce sur la carte. Pour ce faire, debout ou assis sur le point de grâce et en appuyant sur les boutons suivants:
--       Manette XBOX: MENU, Y, RS
--       Manette PS: PARTAGER, TRIANGLE, R3
+-       Controller XBOX: MENU, Y, RS
+-       Controller PS: PARTAGER, TRIANGLE, R3
 -       Clavier: G, F, Z
 
 Descriptions/instructions des versions :
