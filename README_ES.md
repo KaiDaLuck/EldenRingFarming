@@ -13,9 +13,9 @@ Requisitos dentro del juego:
 - Sostenga la espada de la reliquia sagrada con ambas manos.
 - volver a vincular "usar habilidad" a 'J' en la configuración
 - marque el sitio de gracia "Palace Approach Ledge-Road" en su menú de gracia en el mapa. Hágalo parándose o sentándose en el sitio de gracia y presionando los siguientes botones:
--       Controlador XBOX: MENÚ, Y, RS
--       Controlador PS: COMPARTIR, TRIÁNGULO, R3
--       Teclado: G, F, Z
+       Controlador XBOX: MENÚ, Y, RS
+       Controlador PS: COMPARTIR, TRIÁNGULO, R3
+       Teclado: G, F, Z
 
 Descripciones de la versión/Instrucciones:
 
