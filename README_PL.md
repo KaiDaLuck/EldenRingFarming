@@ -29,4 +29,4 @@ Opisy wersji / instrukcje:
 
 5: Użyj go, jeśli zainstalujesz wszystkie albinauryki (wymaga zainstalowania pakietu "keyboard") [Naciśnij ENTER w grze, aby rozpocząć]
 
-6: Tylko ulepszona wersja v.5, ponieważ teraz możesz zatrzymać skrypt w (prawie) dowolnym momencie, przytrzymując „enter” (wymaga zainstalowania pakietu "keyboard") [Po uruchomieniu skryptu poczekaj 5 sekund]
+6: Tylko ulepszona wersja v5, ponieważ teraz możesz zatrzymać skrypt w (prawie) dowolnym momencie, przytrzymując „enter” (wymaga zainstalowania pakietu "keyboard") [Po uruchomieniu skryptu poczekaj 5 sekund]
