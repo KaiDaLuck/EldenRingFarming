@@ -19,8 +19,13 @@ Krav i spelet:
 
 Version descriptions/Instructions:
 1: Använd inte det. Det skapades endast för att testa directkeys.
+
 2: Använd inte den versionen heller, den är långsam och avviker från grace siten. (Kräver att keyboards paketet installeras) [Tryck på ENTER i spelet för att starta]
+
 3: Mycket långsam, men användbar. (Kräver att keyboards paketet installeras) [Tryck på ENTER i spelet för att starta]
+
 4: Bra om du fortfarande har aggro efter att ha använt wave of gold skillet en gång. (Kräver att keyboards paketet installeras) [Tryck på ENTER i spelet för att starta]
+
 5: Använd den om du snabbdödar alla albinaurics (Kräver att keyboards paketet installeras) [Tryck på ENTER i spelet för att starta]
+
 6: Bara en förbättrad version av v.5, eftersom du kan nu stoppa skriptet på (nästan) vilken tid som helst genom att hålla "Enter" (Kräver att keyboards paketet installeras) [Vänta i 5 sekunder efter att du har startat skriptet]
