@@ -13,9 +13,9 @@ Krav i spelet:
 -	Håll det Scared Relic Sword i båda händerna
 -	Binda om "use skill" till "J" i inställningarna
 -	Markera "Palace Approach Ledge-Road"-platsen på kartan. Du kan göra det 	genom att stå eller sitta på grace platsen och trycka på följande 	knappar:
--   XBOX Controller: MENU, Y, RS
--   PS Controller: SHARE, TRIANGLE, R3
--   Keyboard: G, F, Z
+   XBOX Controller: MENU, Y, RS
+   PS Controller: SHARE, TRIANGLE, R3
+   Keyboard: G, F, Z
 
 Version descriptions/Instructions:
 
