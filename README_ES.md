@@ -1,5 +1,5 @@
 # EldenRingFarmingAFK
-Script de cultivo automático para Elden Ring
+Script de farming automático para Elden Ring
 
 Todas las versiones solo funcionan si el archivo "directkeys.py" está en la misma carpeta que el script.
 
