@@ -18,6 +18,7 @@ Krav i spelet:
 -   Keyboard: G, F, Z
 
 Version descriptions/Instructions:
+
 1: Använd inte det. Det skapades endast för att testa directkeys.
 
 2: Använd inte den versionen heller, den är långsam och avviker från grace siten. (Kräver att keyboards paketet installeras) [Tryck på ENTER i spelet för att starta]
