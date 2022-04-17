@@ -7,8 +7,8 @@ Cần phải tải python để sử dụng script này
 
 Nhập python vào cmd trên windows, sau khi đó microsoft store sẽ mở, và bạn sẽ tải nó ở đó.
 Để sử dụng cho chủ yếu cái phiên bản, bạn cần phải tải gói “keyboard". Để tải nó trên Window 10/11 thì
+- Nhập "py -m pip install --upgrade keyboard" hoặc "python -m pip install --upgrade keyboard" vào command line (cmd)
 
-Nhập "py -m pip install --upgrade keyboard" hoặc "python -m pip install --upgrade keyboard" vào command line (cmd)
 Những điều bạn cần làm trong game:
 - Cầm “Sacred relic sword" ở hai tay
 - Chỉnh lại phím để “use skill" thành ‘J' trong settings
